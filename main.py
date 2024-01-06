@@ -4,4 +4,8 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-hahahahahaha
+from  selenium import  webdriver
+
+website = "https://ca.indeed.com/"
+path = "chromedriver-win64/chromedriver.exe"
+driver = webdriver.Chrome(path)
