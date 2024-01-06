@@ -8,3 +8,4 @@ from  selenium import  webdriver
 
 website = "https://ca.indeed.com/"
 path = "chromedriver-win64/chromedriver.exe"
+driver = webdriver.Chrome(path)
