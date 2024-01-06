@@ -11,5 +11,3 @@ def get_response(input_data):
     max_tokens=150,
     )
     return response
-
-print(get_response("hi"))
