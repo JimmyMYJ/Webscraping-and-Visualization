@@ -83,6 +83,45 @@ Night Shift (preferred)
 Overnight Shift (preferred)
 Work Location: In person
 
+Job Titles: Leak Detection Analyst
+Company Names: Enbridge
+Company Location: Edmonton, AB
+Job Condition: Full-time,Day shift
++3
+Job Description:
+Posting End Date:
+January 10, 2024
+Employee Type:
+Regular-Full time
+Union/Non:
+This is a non-union position
+Are you a problem solver and thrive in a fast-paced environment? If so, we are currently looking for a highly motivated individual to perform the role of Leak Detection Analyst. This role requires the incumbent to use a comprehensive suite of on-line computational pipeline monitoring systems to assess whether a potential leak has occurred in real-time. The Leak Detection Analyst (LDA) is accountable for providing alarm response, analysis, interpretation, communication, documentation and resolution for all operational Leak Detection Systems (LDS) within the scope of the Leak Detection department. Read on to know more!
+We offer opportunities for growth, a competitive benefits and pension plan, and generous time off. Apply today, we'd love to hear from you! #joinourteam
+What You Will Do:
+Utilize engineering knowledge in addition to well-defined processes and procedures to provide primary response and on-site support to Control Centre Operations for the Leak Detection Systems (LDS).
+Demonstrate working knowledge of LDA procedures and related tools, as well as multiple hydraulic, statistical, and other leak detection software.
+Expand proficiency in applied engineering programming and process analysis, as well as in review and analysis of SCADA data inputs to LDS, P&IDs, flow diagrams and trending tools.
+Ensure continuous improvement of the LD Systems through comprehensive investigation and detailed deficiency reporting.
+Provides 24x7 on-shift support to the Control Centre in Leak Detection System alarm response, analysis, interpretation, and communication of analysis results.
+Who You Are:
+Engineering degree from a recognized university OR two year technical diploma, preferably in chemical, mechanical, computer or equivalent engineering discipline suitable for the position focus.
+0 to 4 years of related experience in a relevant engineering position or equivalent is preferred.
+Eligible for membership or member-in-training with APEGA or ASET.
+Proficient troubleshooting, problem-solving, and decision-making skills. Ability to work independently.
+Strong interpersonal and communication skills.
+Working Conditions:
+Work is conducted in rotating 12-hour day and night shifts from within the Control Centre.
+This role involves various background screening that includes but is not limited to a criminal record check, company sponsored medical and drug test.
+Diversity and inclusion are important to us. Enbridge is an
+Equal Opportunity and Affirmative Action Employer
+. We are committed to providing employment opportunities to all qualified individuals, without regard to age, race, color, national or ethnic origin, religion, sex, sexual orientation, gender identity or expression, marital status, family status, veteran status, Indigenous/Native American status, or disability. Applicants with disabilities can request accessible formats, communication supports, or other accessibility assistance by contacting
+careers@enbridge.com
+.
+Information For Applicants:
+Applications can be submitted via our online recruiting system only.
+We appreciate your interest in working with us; however, only those applicants selected for interviews will be contacted.
+Final candidates for this position may be required to undergo a security screening, including a criminal records check.
+
 Job Titles: Software QA Tester-Edmonton (in-office)
 Company Names: PSCL - Process Solutions Canada Ltd
 Company Location: Edmonton, AB
@@ -145,44 +184,58 @@ Licence/Certification:
 ISTQB Certification (preferred)
 Work Location: In person
 
-Job Titles: Leak Detection Analyst
-Company Names: Enbridge
-Company Location: Edmonton, AB
-Job Condition: Full-time,Day shift
-+3
+Job Titles: computer programmer
+Company Names: Simpli Tech
+Company Location: Remote in Edmonton, AB
+Job Condition: $45.15 an hour,Full-time
++2
 Job Description:
-Posting End Date:
-January 10, 2024
-Employee Type:
-Regular-Full time
-Union/Non:
-This is a non-union position
-Are you a problem solver and thrive in a fast-paced environment? If so, we are currently looking for a highly motivated individual to perform the role of Leak Detection Analyst. This role requires the incumbent to use a comprehensive suite of on-line computational pipeline monitoring systems to assess whether a potential leak has occurred in real-time. The Leak Detection Analyst (LDA) is accountable for providing alarm response, analysis, interpretation, communication, documentation and resolution for all operational Leak Detection Systems (LDS) within the scope of the Leak Detection department. Read on to know more!
-We offer opportunities for growth, a competitive benefits and pension plan, and generous time off. Apply today, we'd love to hear from you! #joinourteam
-What You Will Do:
-Utilize engineering knowledge in addition to well-defined processes and procedures to provide primary response and on-site support to Control Centre Operations for the Leak Detection Systems (LDS).
-Demonstrate working knowledge of LDA procedures and related tools, as well as multiple hydraulic, statistical, and other leak detection software.
-Expand proficiency in applied engineering programming and process analysis, as well as in review and analysis of SCADA data inputs to LDS, P&IDs, flow diagrams and trending tools.
-Ensure continuous improvement of the LD Systems through comprehensive investigation and detailed deficiency reporting.
-Provides 24x7 on-shift support to the Control Centre in Leak Detection System alarm response, analysis, interpretation, and communication of analysis results.
-Who You Are:
-Engineering degree from a recognized university OR two year technical diploma, preferably in chemical, mechanical, computer or equivalent engineering discipline suitable for the position focus.
-0 to 4 years of related experience in a relevant engineering position or equivalent is preferred.
-Eligible for membership or member-in-training with APEGA or ASET.
-Proficient troubleshooting, problem-solving, and decision-making skills. Ability to work independently.
-Strong interpersonal and communication skills.
-Working Conditions:
-Work is conducted in rotating 12-hour day and night shifts from within the Control Centre.
-This role involves various background screening that includes but is not limited to a criminal record check, company sponsored medical and drug test.
-Diversity and inclusion are important to us. Enbridge is an
-Equal Opportunity and Affirmative Action Employer
-. We are committed to providing employment opportunities to all qualified individuals, without regard to age, race, color, national or ethnic origin, religion, sex, sexual orientation, gender identity or expression, marital status, family status, veteran status, Indigenous/Native American status, or disability. Applicants with disabilities can request accessible formats, communication supports, or other accessibility assistance by contacting
-careers@enbridge.com
-.
-Information For Applicants:
-Applications can be submitted via our online recruiting system only.
-We appreciate your interest in working with us; however, only those applicants selected for interviews will be contacted.
-Final candidates for this position may be required to undergo a security screening, including a criminal records check.
+Education: College/CEGEP
+Experience: 1 year to less than 2 years
+or equivalent experience
+Tasks
+Write, modify, integrate and test software code
+Maintain existing computer programs by making modifications as required
+Identify and communicate technical problems, processes and solutions
+Prepare reports, manuals and other documentation on the status, operation and maintenance of software
+Assist in the collection and documentation of user's requirements
+Assist in the development of logical and physical specifications
+Research and evaluate a variety of software products
+Write, modify, integrate and test software code for e-commerce and other Internet applications
+Computer and technology knowledge
+HTML
+Internet
+MS Office
+MS Windows
+Multimedia software
+Networking security
+Networking software
+Programming software
+SQL
+Software development
+Spreadsheet
+Website creation and management software
+Word processing software
+Work conditions and physical capabilities
+Fast-paced environment
+Tight deadlines
+Repetitive tasks
+Attention to detail
+Sitting
+Personal suitability
+Accurate
+Client focus
+Efficient interpersonal skills
+Excellent oral communication
+Excellent written communication
+Initiative
+Organized
+Team player
+Workplace information
+Remote work available
+Work Term: Permanent
+Work Language: English
+Hours: 30 hours per week
 
 Job Titles: Network Operations / Helpdesk Analyst / Network Administrator
 Company Names: Wolfpaw Data Centres Inc
@@ -252,59 +305,6 @@ JNCIA or CCNA (required)
 Ability to Commute:
 Edmonton, AB (required)
 Work Location: In person
-
-Job Titles: computer programmer
-Company Names: Simpli Tech
-Company Location: Remote in Edmonton, AB
-Job Condition: $45.15 an hour,Full-time
-+2
-Job Description:
-Education: College/CEGEP
-Experience: 1 year to less than 2 years
-or equivalent experience
-Tasks
-Write, modify, integrate and test software code
-Maintain existing computer programs by making modifications as required
-Identify and communicate technical problems, processes and solutions
-Prepare reports, manuals and other documentation on the status, operation and maintenance of software
-Assist in the collection and documentation of user's requirements
-Assist in the development of logical and physical specifications
-Research and evaluate a variety of software products
-Write, modify, integrate and test software code for e-commerce and other Internet applications
-Computer and technology knowledge
-HTML
-Internet
-MS Office
-MS Windows
-Multimedia software
-Networking security
-Networking software
-Programming software
-SQL
-Software development
-Spreadsheet
-Website creation and management software
-Word processing software
-Work conditions and physical capabilities
-Fast-paced environment
-Tight deadlines
-Repetitive tasks
-Attention to detail
-Sitting
-Personal suitability
-Accurate
-Client focus
-Efficient interpersonal skills
-Excellent oral communication
-Excellent written communication
-Initiative
-Organized
-Team player
-Workplace information
-Remote work available
-Work Term: Permanent
-Work Language: English
-Hours: 30 hours per week
 
 Job Titles: software design engineer
 Company Names: Simpli Tech
@@ -448,10 +448,62 @@ for an interview and a case study evaluation.
 Candidates with disabilities may request accommodation at anytime during the recruitment and hiring
 process.
 
+Job Titles: DevOps Engineer (Tooling)
+Company Names: Resolver
+Company Location: Edmonton, AB
+Job Condition: Full-time
+Job Description:
+Resolver is now permanently hybrid – that means, you can decide to work in office, remotely or a mix of both depending on your preference! That location you see above is the region you are able to work within.
+
+The DevOps Engineer (Tooling) at Resolver is responsible for enabling developers, DevOps engineers, and other groups to be more effective at their jobs. They achieve this by removing delays, obstacles and pressure points in the process through automating tasks that are slow, manual, fragile or would otherwise benefit from automation. The Tooling Developer is one of the key stakeholders and owners of the build and deployment infrastructure (CI/CD) at Resolver, as well as an internal CLI tool.
+
+About Resolver:
+
+Resolver is a high-growth SaaS company whose intuitive, no-code platform gives our customers a clear picture of their risks so they can make quick and effective decisions. As a part of the Resolver team, your work will help transform risk management to risk intelligence so organizations can protect people and assets and deliver on their purpose.
+We are ambitious in both our mission and our culture. As a business within Kroll, we offer an innovative, non-hierarchical work environment blended with the stability and financial security of an enterprise. Resolver has also been named one of Canada’s Great Places to Work six years in a row!
+
+Let's break down the day-to-day a little further:
+
+Tooling Development (50%)
+Measures of success: consistent improvements to Resolver’s tooling
+Displays high-level knowledge of programming languages including In-depth knowledge of the frameworks used by the team.
+Displays high-level knowledge of the infrastructure being used by the team, including forward-looking research into emerging best practices.
+Develops new tooling: command line tools, CI/CD jobs, scripts, web applications, to increase team efficiency.
+Increase the throughput of our development team through process automation and supportive tooling
+Coaching and Support (30%)
+Measures of success: Developers get unblocked quickly and have access to sufficient documentation for their daily workflows
+Works with the team to develop software solutions through analyzing needs; talking with internal users (developers, development managers, DevOps team); studying systems flow, pain points, work processes; and investigating problem areas
+Creates and maintains technical documentation that helps developers understand how to use the tooling (e.g. Getting started Wiki, design guides and documentation).
+Develops internal learning and documentation to support the efficiency of the team.
+Strategy (20%)
+Monitor, maintain and research improvements to Resolver’s build infrastructure and tooling.
+Continue to learn processes and technologies to further our goals.
+Assist in maintaining a roadmap of tooling improvements in harmony with the product roadmap.
+What you will bring:
+Bachelor or higher degree in computer science and/or engineering or related experience from an accredited University
+A passion for helping coworkers be more effective at their jobs
+Exceptional analytical, communication, and problem-solving skills
+Strong knowledge of the programming languages used by the team (Typescript/Node, Go)
+Strong knowledge of the infrastructure being used by the team, including forward-looking research into emerging best practices (AWS, Terraform, Docker, Gitlab pipelines)
+What we’ll give you in return:
+Resolver is one of Canada's Great Workplaces. Culture isn't just something we write about (although we do), we live our values and challenge each other to be our best selves. We invest in Resolverites who will grow with us. We have a comprehensive rewards package to show our team our appreciation for everything they do:
+Health and Wellness Benefits: 100% paid by us for health and dental from day one. And our vision care is every 12 months!
+Professional development: we have an external learning budget to help you grow and develop. We host a learning workshop about every 6 weeks on topics like Time Management, Self-Awareness and Giving Feedback; we also have e-learning to meet the needs of our remote team. We offer a Career Development Program to help you identify and build your skillsets for internal growth opportunities and beyond. We also have a Coaching Program for all our managers. We know how important it is to have a good boss, so we invest in their development.
+Vacation: it's open, which means we don't worry about an accrual clock. On average, we see most folks enjoying between 3-4 weeks off a year.
+Parental leave: Best-in-class top-up for new parents - 100% for 15 weeks new parents and a bonus 5 weeks for birth mothers.
+Flexibility & trust – While we are remote for now, we enable our team to create a work environment that will set them up for success. We hire adults and we trust you to manage your outcomes. Day-to-day, everyone is given the option to decide whether they want to work remote or in-office depending on the needs of their role.
+Back in the Office – If you choose to come into the office once we’re back, you will have access to snacks and beverages and in-office games like Switch, chess and ping-pong. We will be offering up lots of opportunity for team socials too, including the folks who are remote!
+Interested?
+
+If you want to work in a highly collaborative environment and are committed to making a difference, click here to get the process rolling. We truly appreciate all interest and will happily reply to qualified candidates.
+
+Resolver is committed to providing accommodations for all persons with disabilities. If at any point in the recruitment process you require accommodation, please notify the applicable recruiter or contact us directly at careers@resolver.com
+
 Job Titles: Application Developer
 Company Names: Omega Solutions Imc
 Company Location: Edmonton, AB
-Job Condition: Fixed term contract
+Job Condition: Contract
++1
 Job Description:
 Company Description
 
@@ -495,6 +547,87 @@ Experience working with Oracle PL/SQL code modules
 Additional Information
 
 All your information will be kept confidential according to EEO guidelines.
+
+Job Titles: Control Systems Technologist
+Company Names: DCD Engineering
+Company Location: Hybrid remote in Edmonton, AB
+Job Condition: $35.00–$45.25 an hour,Full-time
++1,Monday to Friday
++1
+Job Description:
+About us
+DCD Engineering Ltd. is an Edmonton based Engineering firm specializing in industrial control systems, automation, and software development. We serve the Energy, Utilities, Manufacturing, and Agricultural industries among many others and provide our services to some of the largest corporations in Canada and across North America.
+At DCD Engineering we provide an exciting, strong team atmosphere and interesting work where one can build on their strengths and interests.
+Our goal is to be the best-in-class automation service provider in all of Canada, providing unparalleled value for our clients while providing our employees with a welcoming and enjoyable work environment in which they can achieve their fullest potential.
+Job Description
+DCD Engineering is hiring bright and motivated individuals interested in a career as a Control Systems Technologist. The position involves the design, integration, programming, testing and commissioning of facility control systems involving state-of-the-art control platforms for PLC, HMI, DCS, and SCADA systems.
+Successful candidates will work and mentor under Intermediate and Senior Controls Engineers and Technologists and will be able to develop their careers and expertise in an exciting team atmosphere with a wide range of projects spanning multiple industries. This position will have excellent opportunities for advancement within the company.
+Most design work will be completed in a DCD's Edmonton office, and opportunities for a hybrid remote work arrangement are available. The successful applicant will see projects through design, onsite commissioning/startup, and through to full scale operation. This provides excellent learning opportunities as all projects are taken from their conceptual phase into reality by a single project team.
+Some of the daily tasks and skill-sets required of the position include:
+Initial control system design/architecture development
+Control system Engineering Document production
+Control system programming of controllers and human machine interfaces
+Software/Hardware testing and validation
+Client Functional Acceptance Testing
+Commissioning document production
+Site commissioning and facility startup
+Control System optimization
+Ongoing client operations support and trouble-shooting of client facilities.
+Design and implementation of secure Telecommunication and Network infrastructures
+Job Types: Full-time, Permanent
+Salary: $35.00-$45.25 per hour
+Benefits:
+Company events
+Dental care
+Extended health care
+Flexible schedule
+RRSP match
+Vision care
+Wellness program
+Work from home
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Overtime pay
+Education:
+AEC / DEP or Skilled Trade Certificate (required)
+Work Location: Hybrid remote in Edmonton, AB T6E 5V8
+
+Job Titles: Computer Vision Software Developer
+Company Names: Mojow Autonomous Solutions Inc.
+Company Location: Hybrid remote in Edmonton, AB
+Job Condition: $55,000–$85,000 a year,Full-time
++1,8 hour shift
+Job Description:
+Company description
+Mojow Autonomous Solutions Inc. is currently developing EYEBOX™. EYEBOX is an economical set of hardware and software components that can be installed on tractors, enabling it to complete tasks autonomously at the farm.
+Learn more about EYEBOX: https://www.mojow.ai/blog/introducing_eyebox/index.html
+Mojow was incorporated in February of 2020. Our corporate office is located in White City Saskatchewan, and the software development office is located in Edmonton, Alberta. Western Canada is rich with the technical talent necessary for our highly specialized software development needs, and conveniently located near the customer base we plan to serve. There is no better location in the world to develop digital-AG technologies than in Western Canada.
+Job description
+We are looking for robotics developers who want to be part of a fast-paced, dynamic environment. We give people the opportunity to thrive in a collaborative atmosphere that values learning, growth, and hard work. The ideal candidate will help with the development of C++ software that runs on EYEBOX.
+If you are passionate about robotics and autonomy, please apply below.
+Position summary:
+The main responsibility for this role is developing components for our perception system. Possible projects include object detection, scene understanding, depth estimation, mapping, and sensor calibration.
+In this role you will:
+Research and develop computer vision algorithms and machine learning models for the perception system.
+Help deploy the perception system with our software stack
+Work with data from a variety of sensors (e.g. cameras, LiDAR, Radar, IMU)
+Prepare reports and presentations on progress, status and results internally, externally, verbally and in writing
+We’d like you to have:
+Degree in computer science or a related field.
+Strong programming skills in C++
+Hands-on experience with at least one of the following computer vision and machine learning techniques: object detection, semantic segmentation, scene understanding, structure from motion, visual odometry, visual SLAM, stereo reconstruction, neural depth estimation, sensor calibration.
+Experience with common deep learning frameworks (TensorFlow and PyTorch)
+Strong software development skills (design, unit testing, code reviews, etc.)
+Work environment:
+mojow.ai provides equal employment opportunity regardless of race, religion, ethnic or national origin, disability, age, citizenship, marital status, sexual orientation, gender identity or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
+Job Types: Full-time, Permanent
+Salary: $55,000.00-$85,000.00 per year
+Schedule:
+8 hour shift
+Education:
+Master's Degree (preferred)
+Work Location: Hybrid remote in Edmonton, AB
 
 Job Titles: Web developer
 Company Names: Tekno Resources Ltd
@@ -554,102 +687,6 @@ Work Term: Permanent
 Work Language: English
 Hours: 30 hours per week
 
-Job Titles: Control Systems Technologist
-Company Names: DCD Engineering
-Company Location: Hybrid remote in Edmonton, AB
-Job Condition: $35.00–$45.25 an hour,Full-time
-+1,Monday to Friday
-+1
-Job Description:
-About us
-DCD Engineering Ltd. is an Edmonton based Engineering firm specializing in industrial control systems, automation, and software development. We serve the Energy, Utilities, Manufacturing, and Agricultural industries among many others and provide our services to some of the largest corporations in Canada and across North America.
-At DCD Engineering we provide an exciting, strong team atmosphere and interesting work where one can build on their strengths and interests.
-Our goal is to be the best-in-class automation service provider in all of Canada, providing unparalleled value for our clients while providing our employees with a welcoming and enjoyable work environment in which they can achieve their fullest potential.
-Job Description
-DCD Engineering is hiring bright and motivated individuals interested in a career as a Control Systems Technologist. The position involves the design, integration, programming, testing and commissioning of facility control systems involving state-of-the-art control platforms for PLC, HMI, DCS, and SCADA systems.
-Successful candidates will work and mentor under Intermediate and Senior Controls Engineers and Technologists and will be able to develop their careers and expertise in an exciting team atmosphere with a wide range of projects spanning multiple industries. This position will have excellent opportunities for advancement within the company.
-Most design work will be completed in a DCD's Edmonton office, and opportunities for a hybrid remote work arrangement are available. The successful applicant will see projects through design, onsite commissioning/startup, and through to full scale operation. This provides excellent learning opportunities as all projects are taken from their conceptual phase into reality by a single project team.
-Some of the daily tasks and skill-sets required of the position include:
-Initial control system design/architecture development
-Control system Engineering Document production
-Control system programming of controllers and human machine interfaces
-Software/Hardware testing and validation
-Client Functional Acceptance Testing
-Commissioning document production
-Site commissioning and facility startup
-Control System optimization
-Ongoing client operations support and trouble-shooting of client facilities.
-Design and implementation of secure Telecommunication and Network infrastructures
-Job Types: Full-time, Permanent
-Salary: $35.00-$45.25 per hour
-Benefits:
-Company events
-Dental care
-Extended health care
-Flexible schedule
-RRSP match
-Vision care
-Wellness program
-Work from home
-Schedule:
-Monday to Friday
-Supplemental pay types:
-Overtime pay
-Education:
-AEC / DEP or Skilled Trade Certificate (required)
-Work Location: Hybrid remote in Edmonton, AB T6E 5V8
-
-Job Titles: DevOps Engineer (Tooling)
-Company Names: Resolver
-Company Location: Edmonton, AB
-Job Condition: Full-time
-Job Description:
-Resolver is now permanently hybrid – that means, you can decide to work in office, remotely or a mix of both depending on your preference! That location you see above is the region you are able to work within.
-
-The DevOps Engineer (Tooling) at Resolver is responsible for enabling developers, DevOps engineers, and other groups to be more effective at their jobs. They achieve this by removing delays, obstacles and pressure points in the process through automating tasks that are slow, manual, fragile or would otherwise benefit from automation. The Tooling Developer is one of the key stakeholders and owners of the build and deployment infrastructure (CI/CD) at Resolver, as well as an internal CLI tool.
-
-About Resolver:
-
-Resolver is a high-growth SaaS company whose intuitive, no-code platform gives our customers a clear picture of their risks so they can make quick and effective decisions. As a part of the Resolver team, your work will help transform risk management to risk intelligence so organizations can protect people and assets and deliver on their purpose.
-We are ambitious in both our mission and our culture. As a business within Kroll, we offer an innovative, non-hierarchical work environment blended with the stability and financial security of an enterprise. Resolver has also been named one of Canada’s Great Places to Work six years in a row!
-
-Let's break down the day-to-day a little further:
-
-Tooling Development (50%)
-Measures of success: consistent improvements to Resolver’s tooling
-Displays high-level knowledge of programming languages including In-depth knowledge of the frameworks used by the team.
-Displays high-level knowledge of the infrastructure being used by the team, including forward-looking research into emerging best practices.
-Develops new tooling: command line tools, CI/CD jobs, scripts, web applications, to increase team efficiency.
-Increase the throughput of our development team through process automation and supportive tooling
-Coaching and Support (30%)
-Measures of success: Developers get unblocked quickly and have access to sufficient documentation for their daily workflows
-Works with the team to develop software solutions through analyzing needs; talking with internal users (developers, development managers, DevOps team); studying systems flow, pain points, work processes; and investigating problem areas
-Creates and maintains technical documentation that helps developers understand how to use the tooling (e.g. Getting started Wiki, design guides and documentation).
-Develops internal learning and documentation to support the efficiency of the team.
-Strategy (20%)
-Monitor, maintain and research improvements to Resolver’s build infrastructure and tooling.
-Continue to learn processes and technologies to further our goals.
-Assist in maintaining a roadmap of tooling improvements in harmony with the product roadmap.
-What you will bring:
-Bachelor or higher degree in computer science and/or engineering or related experience from an accredited University
-A passion for helping coworkers be more effective at their jobs
-Exceptional analytical, communication, and problem-solving skills
-Strong knowledge of the programming languages used by the team (Typescript/Node, Go)
-Strong knowledge of the infrastructure being used by the team, including forward-looking research into emerging best practices (AWS, Terraform, Docker, Gitlab pipelines)
-What we’ll give you in return:
-Resolver is one of Canada's Great Workplaces. Culture isn't just something we write about (although we do), we live our values and challenge each other to be our best selves. We invest in Resolverites who will grow with us. We have a comprehensive rewards package to show our team our appreciation for everything they do:
-Health and Wellness Benefits: 100% paid by us for health and dental from day one. And our vision care is every 12 months!
-Professional development: we have an external learning budget to help you grow and develop. We host a learning workshop about every 6 weeks on topics like Time Management, Self-Awareness and Giving Feedback; we also have e-learning to meet the needs of our remote team. We offer a Career Development Program to help you identify and build your skillsets for internal growth opportunities and beyond. We also have a Coaching Program for all our managers. We know how important it is to have a good boss, so we invest in their development.
-Vacation: it's open, which means we don't worry about an accrual clock. On average, we see most folks enjoying between 3-4 weeks off a year.
-Parental leave: Best-in-class top-up for new parents - 100% for 15 weeks new parents and a bonus 5 weeks for birth mothers.
-Flexibility & trust – While we are remote for now, we enable our team to create a work environment that will set them up for success. We hire adults and we trust you to manage your outcomes. Day-to-day, everyone is given the option to decide whether they want to work remote or in-office depending on the needs of their role.
-Back in the Office – If you choose to come into the office once we’re back, you will have access to snacks and beverages and in-office games like Switch, chess and ping-pong. We will be offering up lots of opportunity for team socials too, including the folks who are remote!
-Interested?
-
-If you want to work in a highly collaborative environment and are committed to making a difference, click here to get the process rolling. We truly appreciate all interest and will happily reply to qualified candidates.
-
-Resolver is committed to providing accommodations for all persons with disabilities. If at any point in the recruitment process you require accommodation, please notify the applicable recruiter or contact us directly at careers@resolver.com
-
 Job Titles: Junior Software Test Developer
 Company Names: Intelliwave Technologies
 Company Location: Edmonton, AB
@@ -685,42 +722,6 @@ Company paid RRSP contributions.
 Apply Today:
 Submit application to jobs@intelliwavetechnologies.com.
 Please include all contact information with your Resume. Do not include any additional contact information in the form below, outside of what the form asks for.
-
-Job Titles: Computer Vision Software Developer
-Company Names: Mojow Autonomous Solutions Inc.
-Company Location: Hybrid remote in Edmonton, AB
-Job Condition: $55,000–$85,000 a year,Full-time
-+1,8 hour shift
-Job Description:
-Company description
-Mojow Autonomous Solutions Inc. is currently developing EYEBOX™. EYEBOX is an economical set of hardware and software components that can be installed on tractors, enabling it to complete tasks autonomously at the farm.
-Learn more about EYEBOX: https://www.mojow.ai/blog/introducing_eyebox/index.html
-Mojow was incorporated in February of 2020. Our corporate office is located in White City Saskatchewan, and the software development office is located in Edmonton, Alberta. Western Canada is rich with the technical talent necessary for our highly specialized software development needs, and conveniently located near the customer base we plan to serve. There is no better location in the world to develop digital-AG technologies than in Western Canada.
-Job description
-We are looking for robotics developers who want to be part of a fast-paced, dynamic environment. We give people the opportunity to thrive in a collaborative atmosphere that values learning, growth, and hard work. The ideal candidate will help with the development of C++ software that runs on EYEBOX.
-If you are passionate about robotics and autonomy, please apply below.
-Position summary:
-The main responsibility for this role is developing components for our perception system. Possible projects include object detection, scene understanding, depth estimation, mapping, and sensor calibration.
-In this role you will:
-Research and develop computer vision algorithms and machine learning models for the perception system.
-Help deploy the perception system with our software stack
-Work with data from a variety of sensors (e.g. cameras, LiDAR, Radar, IMU)
-Prepare reports and presentations on progress, status and results internally, externally, verbally and in writing
-We’d like you to have:
-Degree in computer science or a related field.
-Strong programming skills in C++
-Hands-on experience with at least one of the following computer vision and machine learning techniques: object detection, semantic segmentation, scene understanding, structure from motion, visual odometry, visual SLAM, stereo reconstruction, neural depth estimation, sensor calibration.
-Experience with common deep learning frameworks (TensorFlow and PyTorch)
-Strong software development skills (design, unit testing, code reviews, etc.)
-Work environment:
-mojow.ai provides equal employment opportunity regardless of race, religion, ethnic or national origin, disability, age, citizenship, marital status, sexual orientation, gender identity or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
-Job Types: Full-time, Permanent
-Salary: $55,000.00-$85,000.00 per year
-Schedule:
-8 hour shift
-Education:
-Master's Degree (preferred)
-Work Location: Hybrid remote in Edmonton, AB
 
 Job Titles: Full Stack Developer
 Company Names: Redman Technologies Inc.
