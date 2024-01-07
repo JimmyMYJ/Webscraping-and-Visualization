@@ -10,6 +10,8 @@ from selenium.webdriver.common.keys import Keys
 
 from flask import Flask, request, render_template
 
+from analyze import get_response
+
 app = Flask(__name__)
 
 @app.route('/')
@@ -63,7 +65,7 @@ def webscrape(keyword):
 
         with open("result.txt",'a') as f:
             f.write(text)
-    return job_desc
+    return job_desc[0]
 
 
 
@@ -76,7 +78,8 @@ def submit():
     input_data = request.form["job_url"]
     # Process input_data in your Python script as needed
     # For now, let's just print it
-    result = webscrape(input_data)
+    job = webscrape(input_data)
+    result = get_response(job)
     return render_template('main.html', result=result)
 
 app.run(debug=False)
