@@ -122,68 +122,6 @@ Applications can be submitted via our online recruiting system only.
 We appreciate your interest in working with us; however, only those applicants selected for interviews will be contacted.
 Final candidates for this position may be required to undergo a security screening, including a criminal records check.
 
-Job Titles: Software QA Tester-Edmonton (in-office)
-Company Names: PSCL - Process Solutions Canada Ltd
-Company Location: Edmonton, AB
-Job Condition: $50,000–$55,000 a year,Full-time,Monday to Friday
-+2
-Job Description:
-Must be located in Edmonton area - not a remote work position
-Do you enjoy working with a team to improve the quality of software releases? Are you in your element collaborating with developers and business analysts? This is an opportunity to use your experience to maintain and improve the quality of PSCL's best-in-class software products by designing test cases, suites and automating deployment and testing tools. PSCL is implementing infrastructure as code - this role considers basic python scripting for automated test cases, deployment and evaluation of results.
-PSCL is a leading supplier of software and automation services to the global cement industry. Since 1985, we have provided advanced control, laboratory management and automated shipping systems around the world. We are successful because we listen to our customers, take pride in what we do, and we have an amazing team.
-We're seeking an experienced Software QA Tester to join our team in our Edmonton office .
-** Not a remote work position - you must live in the Edmonton area to apply**
-Responsibilities:
-Understand the scope of projects and work with developers and project support teams
-Perform stress, performance, functional and scalability testing
-Write and execute test scripts
-Write manual and automated tests
-Test in different environments including web and mobile
-Write bug reports
-Provide objective feedback to the development team
-To be successful you will need…
-1+ years' experience developing automated testing for desktop and web environments
-3+ years' manual testing experience
-Understanding of networking and database support
-Experience with end-user support and training
-A degree or diploma in Computer Science. Software development and/or testing coursework
-MS-SQL experience
-Experience working with Azure DevOps and Postman
-ISTQB certification is an asset
-Docker desktop experience is an asset
-2+years working in a Scrum team
-Strong communication and interpersonal skills
-Strong attention to detail - must be well organized
-You must have the right to work in Canada to apply for this position. The successful candidate is required to work from our Edmonton office. PSCL is an equal opportunity employer, and we pride ourselves on our cultural diversity.
-We are a growing company with a unique market and technical specialty that offers a friendly, inclusive and interactive work environment.
-If you are passionate about your craft and live in Edmonton, we’d love to hear from you with a resume outlining why you would be the perfect fit for our team.
-Job Type: Full-time
-Salary: $50,000.00-$55,000.00 per year
-Benefits:
-Casual dress
-Company events
-Discounted or free food
-On-site parking
-Schedule:
-8 hour shift
-Day shift
-Monday to Friday
-Ability to commute/relocate:
-Edmonton, AB: reliably commute or plan to relocate before starting work (required)
-Application question(s):
-Do you have the right to work in Canada?
-Education:
-DCS / DEC (required)
-Experience:
-automated testing: 1 year (required)
-Azure Dev Ops: 1 year (required)
-Postman: 1 year (required)
-object-oriented programming: 1 year (required)
-manual testing: 3 years (required)
-Licence/Certification:
-ISTQB Certification (preferred)
-Work Location: In person
-
 Job Titles: computer programmer
 Company Names: Simpli Tech
 Company Location: Remote in Edmonton, AB
@@ -216,6 +154,56 @@ Software development
 Spreadsheet
 Website creation and management software
 Word processing software
+Work conditions and physical capabilities
+Fast-paced environment
+Tight deadlines
+Repetitive tasks
+Attention to detail
+Sitting
+Personal suitability
+Accurate
+Client focus
+Efficient interpersonal skills
+Excellent oral communication
+Excellent written communication
+Initiative
+Organized
+Team player
+Workplace information
+Remote work available
+Work Term: Permanent
+Work Language: English
+Hours: 30 hours per week
+
+Job Titles: software design engineer
+Company Names: Simpli Tech
+Company Location: Remote in Edmonton, AB
+Job Condition: $46.40 an hour,Full-time
++2
+Job Description:
+Education: College/CEGEP
+Experience: 1 year to less than 2 years
+Tasks
+Collect and document user's requirements and develop logical and physical specifications
+Research, evaluate and synthesize technical information to design, develop and test computer-based systems
+Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs
+Assess, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software
+Lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems
+Computer and technology knowledge
+Device drivers
+Networking software
+Networking hardware
+HTML
+MS Windows
+Networking security
+Internet
+Desktop applications
+File management software
+Security software
+Multimedia software
+Programming languages
+Software development
+MS Office
 Work conditions and physical capabilities
 Fast-paced environment
 Tight deadlines
@@ -305,56 +293,6 @@ JNCIA or CCNA (required)
 Ability to Commute:
 Edmonton, AB (required)
 Work Location: In person
-
-Job Titles: software design engineer
-Company Names: Simpli Tech
-Company Location: Remote in Edmonton, AB
-Job Condition: $46.40 an hour,Full-time
-+2
-Job Description:
-Education: College/CEGEP
-Experience: 1 year to less than 2 years
-Tasks
-Collect and document user's requirements and develop logical and physical specifications
-Research, evaluate and synthesize technical information to design, develop and test computer-based systems
-Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs
-Assess, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software
-Lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems
-Computer and technology knowledge
-Device drivers
-Networking software
-Networking hardware
-HTML
-MS Windows
-Networking security
-Internet
-Desktop applications
-File management software
-Security software
-Multimedia software
-Programming languages
-Software development
-MS Office
-Work conditions and physical capabilities
-Fast-paced environment
-Tight deadlines
-Repetitive tasks
-Attention to detail
-Sitting
-Personal suitability
-Accurate
-Client focus
-Efficient interpersonal skills
-Excellent oral communication
-Excellent written communication
-Initiative
-Organized
-Team player
-Workplace information
-Remote work available
-Work Term: Permanent
-Work Language: English
-Hours: 30 hours per week
 
 Job Titles: General Opportunities
 Company Names: Inflexion Games
@@ -448,6 +386,55 @@ for an interview and a case study evaluation.
 Candidates with disabilities may request accommodation at anytime during the recruitment and hiring
 process.
 
+Job Titles: Application Developer
+Company Names: Omega Solutions Imc
+Company Location: Edmonton, AB
+Job Condition: Contract
++1
+Job Description:
+Company Description
+
+Omega solutions Inc
+
+Job Description
+
+Application Developer
+Edmonton, AB, Canada
+4 months +
+Description:
+Deliver applications programming and analysis tasks as part of a system development process as well as provide application support, maintenance and enhancements. An Application Developer applies a broad knowledge of various technical areas to foresee and rectify certain problem areas within technology or with a mix of technologies, but the focus is to ensure a certain business/functional use case is solved with the help of technology.
+
+Liaise with business units and program areas to ensure solutions meet current and strategic ministry needs.
+Align development team to follow Application Architecture.
+Write code for the most complex Functional and Technical Designs with minimal defects.
+Define non-functional requirements (Performance, Availability, Portability, Recovery / Recoverability etc.).
+Assess technical impacts up front and recommend better ways of designing application to ease the development.
+Produce Technical Design, Database structure and Application Architecture for a new average to high complex application.
+Seek for the best technical design solution that respects budget and timeline. Advocate the re-use of existing components/frameworks.
+Innovate in providing better efficient ways to design application.
+Review Technical Designs from other developers and recommend optimization if necessary.
+Evaluate, with assistance, the quality of the product being delivered, and take action to improve situations.
+Assist/Execute performance/penetration tests and troubleshoot issues at the system level.
+Isolate root cause of issues and provide solution options/recommendations.
+Provide tracking and reporting of time and status on all work, as required.
+Contribute to the creation of the Application Lifecycle Planning.
+Identify and coordinate release schedules.
+Identify service requests and priorities with customers.
+Ensure planned releases remain on schedule.
+
+Qualifications
+
+Experience in designing, building, testing, deploying and supporting applications in an enterprise environment equivalent in size and complexity
+Experience with software development processes, and all associated best practices, methods, standards, tools, and policies.
+Experience and technical knowledge of Microsoft .NET Framework.
+Experience and technical knowledge of Microsoft C#.
+Experience developing in C# with Oracleâ€™s ODP.NET product
+Experience working with Oracle PL/SQL code modules
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
 Job Titles: DevOps Engineer (Tooling)
 Company Names: Resolver
 Company Location: Edmonton, AB
@@ -499,55 +486,6 @@ If you want to work in a highly collaborative environment and are committed to m
 
 Resolver is committed to providing accommodations for all persons with disabilities. If at any point in the recruitment process you require accommodation, please notify the applicable recruiter or contact us directly at careers@resolver.com
 
-Job Titles: Application Developer
-Company Names: Omega Solutions Imc
-Company Location: Edmonton, AB
-Job Condition: Contract
-+1
-Job Description:
-Company Description
-
-Omega solutions Inc
-
-Job Description
-
-Application Developer
-Edmonton, AB, Canada
-4 months +
-Description:
-Deliver applications programming and analysis tasks as part of a system development process as well as provide application support, maintenance and enhancements. An Application Developer applies a broad knowledge of various technical areas to foresee and rectify certain problem areas within technology or with a mix of technologies, but the focus is to ensure a certain business/functional use case is solved with the help of technology.
-
-Liaise with business units and program areas to ensure solutions meet current and strategic ministry needs.
-Align development team to follow Application Architecture.
-Write code for the most complex Functional and Technical Designs with minimal defects.
-Define non-functional requirements (Performance, Availability, Portability, Recovery / Recoverability etc.).
-Assess technical impacts up front and recommend better ways of designing application to ease the development.
-Produce Technical Design, Database structure and Application Architecture for a new average to high complex application.
-Seek for the best technical design solution that respects budget and timeline. Advocate the re-use of existing components/frameworks.
-Innovate in providing better efficient ways to design application.
-Review Technical Designs from other developers and recommend optimization if necessary.
-Evaluate, with assistance, the quality of the product being delivered, and take action to improve situations.
-Assist/Execute performance/penetration tests and troubleshoot issues at the system level.
-Isolate root cause of issues and provide solution options/recommendations.
-Provide tracking and reporting of time and status on all work, as required.
-Contribute to the creation of the Application Lifecycle Planning.
-Identify and coordinate release schedules.
-Identify service requests and priorities with customers.
-Ensure planned releases remain on schedule.
-
-Qualifications
-
-Experience in designing, building, testing, deploying and supporting applications in an enterprise environment equivalent in size and complexity
-Experience with software development processes, and all associated best practices, methods, standards, tools, and policies.
-Experience and technical knowledge of Microsoft .NET Framework.
-Experience and technical knowledge of Microsoft C#.
-Experience developing in C# with Oracleâ€™s ODP.NET product
-Experience working with Oracle PL/SQL code modules
-
-Additional Information
-
-All your information will be kept confidential according to EEO guidelines.
-
 Job Titles: Control Systems Technologist
 Company Names: DCD Engineering
 Company Location: Hybrid remote in Edmonton, AB
@@ -593,6 +531,52 @@ Education:
 AEC / DEP or Skilled Trade Certificate (required)
 Work Location: Hybrid remote in Edmonton, AB T6E 5V8
 
+Job Titles: Full Stack Developer
+Company Names: Redman Technologies Inc.
+Company Location: Edmonton, AB
+Job Condition: $120,000 a year,Full-time
+Job Description:
+"We are currently accepting applications exclusively from candidates residing in Edmonton or within the province of Alberta."
+
+About PLACE:
+
+PLACE is an end-to-end technology and business services platform designed to simplify the real estate lifecycle for both consumers and their real estate agents. Top producing real estate teams partner with PLACE because we take care of bookkeeping, human resources, in-house legal, design and marketing, talent acquisition, business training and coaching. Consumers choose real estate teams Powered by PLACE because our partners are positioned to deliver a better experience to their valued clients.
+
+Your Opportunity:
+
+Join PLACE Inc. and contribute to the growth of one of the most successful real estate technology and business services platforms. With a recent $100 million fundraise at a $1 billion valuation, our profitable and rapidly expanding company offers ample opportunities for you to advance your expertise and career. We prioritize your development - both professionally and personally - and provide a comprehensive compensation package that includes revenue share, health benefits, stock options, and RRSP matching. Embrace the flexibility of working from anywhere and discover the success path we've designed for you.
+
+We are currently seeking a talented Full Stack Developer with a passion for programming and writing elegant code. As part of our dynamic team, you will be responsible for creating custom tools and web applications tailored for the real estate industry. We are dedicated to delivering simple, functional, and powerful user interfaces, APIs, and information storage systems that streamline and enhance the user experience.
+
+What You Excel At:
+
+You are driven by delivering exceptional user experiences, excelling in creating feature-rich and easily navigable products.
+What You'll Accomplish:
+
+Execute projects of varying sizes, crafting innovative solutions for real estate and consumer services
+Implement automated tests alongside new features to identify and resolve bugs
+Analyze end-to-end initiatives, assessing performance, complexity, scalability, quality, and security
+Evaluate technical debt and propose strategies for reduction
+Mentor and support junior engineers in their growth
+
+Skills You Possess:
+
+3+ years of full stack engineering experience
+Expertise in JavaScript, with proficiency in React and Redux; familiarity with Node.js is a plus
+Strong understanding of asynchronous requests, including partial page updates, loading states, and error handling
+Proficiency in code documentation and testing
+Experience using various documentation and project-tracking software
+
+Comprehensive Benefits for Employees and Qualified Dependents:
+
+Medical coverage
+Dental coverage
+Vision coverage
+
+Employees are eligible to participate in the company's yearly Stock Purchase Program.
+
+We are an equal-opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need. We are committed to creating an inclusive environment for all employees.
+
 Job Titles: Computer Vision Software Developer
 Company Names: Mojow Autonomous Solutions Inc.
 Company Location: Hybrid remote in Edmonton, AB
@@ -628,6 +612,96 @@ Schedule:
 Education:
 Master's Degree (preferred)
 Work Location: Hybrid remote in Edmonton, AB
+
+Job Titles: Junior Software Test Developer
+Company Names: Intelliwave Technologies
+Company Location: Edmonton, AB
+Job Condition: 
+Job Description:
+Level: Junior
+Location: Canada > Edmonton
+Start Date: Immediate
+Overview:
+Intelliwave Technologies is a high-tech, fast-growth company headquartered in Edmonton. Our flagship product, SiteSense®, offers innovative solutions combining sensor hardware, software and services for tracking materials and managing material on large industrial construction projects. Intelliwave does business around the world with customers on every continent. Our flagship product, SiteSense®, is a web-based cloud system for asset tracking and material management.
+We are looking for a Software Tester who is passionate about making great software. The ideal candidate will be responsible for evaluating software functions, perform manual and automated testing on SiteSense® Web and Mobile Software as well as use designing to ensure that products work as intended. They will identify mistakes and their causes and report it to the team. Moreover, the Software Tester will design and develop test automation using the latest cloud technologies. A wide degree of creativity, leadership, and being an ultimate team player is expected.
+Responsibilities and Duties
+Have a working knowledge of Intelliwave’s software applications and hardware solutions.
+Follow software development processes using Atlassian tools (JIRA, Confluence).
+Develop automated tests for SiteSense® software.
+Perform requirements gathering, test plans design, test development and manual testing.
+Use testing tools to ensure software quality.
+Candidates must be able to thrive in a fast-paced, collaborative, open work environment.
+Qualifications and Skills
+Bachelor’s degree in a Computer Software related field.
+Passion for software development.
+Experience with programming languages (Javascript, HTML5, CSS, Bash, C#)
+Experience testing with databases. (MSSQL/MySQL, NoSQL/MongoDB).
+Experience using test tools and developing automated tests.
+Knowledge of wireless technologies (GPS, Bluetooth, RFID).
+Knowledge of cloud-based services (AWS).
+Team player as well as a self-starter who needs little supervision.
+Excellent communication, collaboration, analytical, and problem-solving skills.
+Benefits
+Flexible work schedule.
+Standard Benefits (includes: Medical, Dental, and Vision).
+Company paid RRSP contributions.
+Apply Today:
+Submit application to jobs@intelliwavetechnologies.com.
+Please include all contact information with your Resume. Do not include any additional contact information in the form below, outside of what the form asks for.
+
+Job Titles: Website Developer/ Software Developer
+Company Names: Gcore Canada Inc.
+Company Location: Edmonton, AB
+Job Condition: $19–$20 an hour,Full-time
++1,Monday to Friday
++3
+Job Description:
+```Duties:```
+- Develop and maintain web applications using various programming languages and technologies
+- Collaborate with cross-functional teams to gather and define project requirements
+- Design, code, test, debug, and document web applications
+- Troubleshoot and resolve issues with existing web applications
+- Optimize application performance and ensure scalability
+- Stay up-to-date with emerging web development trends and technologies
+```Qualifications:```
+- Bachelor's degree in Computer Science or a related field
+- Proven experience as a Web Developer or similar role
+- Strong knowledge of web development languages such as HTML, CSS, JavaScript, PHP, and Python
+-Knowledge in Microsoft Office
+-Knowledge in Inventory Management Software
+- Experience with frameworks such as Django and Tomcat
+- Proficiency in version control systems like SVN
+- Familiarity with front-end libraries like D3.js and AJAX
+- Knowledge of database systems such as MySQL or PostgreSQL
+- Ability to work independently and as part of a team
+- Excellent problem-solving skills and attention to detail
+Please note that the above qualifications are not exhaustive, and additional skills may be required for specific projects.
+If you are a motivated individual with a passion for web development and a desire to learn and grow in a dynamic environment, we would love to hear from you. Apply now to join our team!
+Job Types: Full-time, Permanent
+Pay: $19.00-$20.00 per hour
+Expected hours: 40 per week
+Benefits:
+Casual dress
+Company events
+On-site parking
+Store discount
+Flexible Language Requirement:
+French not required
+Schedule:
+8 hour shift
+Monday to Friday
+Morning shift
+Supplemental pay types:
+Overtime pay
+Education:
+AEC / DEP or Skilled Trade Certificate (preferred)
+Language:
+English (required)
+Ability to Commute:
+Edmonton, AB T5L 4V5 (required)
+Ability to Relocate:
+Edmonton, AB T5L 4V5: Relocate before starting work (required)
+Work Location: In person
 
 Job Titles: Web developer
 Company Names: Tekno Resources Ltd
@@ -686,86 +760,4 @@ Remote work available
 Work Term: Permanent
 Work Language: English
 Hours: 30 hours per week
-
-Job Titles: Junior Software Test Developer
-Company Names: Intelliwave Technologies
-Company Location: Edmonton, AB
-Job Condition: 
-Job Description:
-Level: Junior
-Location: Canada > Edmonton
-Start Date: Immediate
-Overview:
-Intelliwave Technologies is a high-tech, fast-growth company headquartered in Edmonton. Our flagship product, SiteSense®, offers innovative solutions combining sensor hardware, software and services for tracking materials and managing material on large industrial construction projects. Intelliwave does business around the world with customers on every continent. Our flagship product, SiteSense®, is a web-based cloud system for asset tracking and material management.
-We are looking for a Software Tester who is passionate about making great software. The ideal candidate will be responsible for evaluating software functions, perform manual and automated testing on SiteSense® Web and Mobile Software as well as use designing to ensure that products work as intended. They will identify mistakes and their causes and report it to the team. Moreover, the Software Tester will design and develop test automation using the latest cloud technologies. A wide degree of creativity, leadership, and being an ultimate team player is expected.
-Responsibilities and Duties
-Have a working knowledge of Intelliwave’s software applications and hardware solutions.
-Follow software development processes using Atlassian tools (JIRA, Confluence).
-Develop automated tests for SiteSense® software.
-Perform requirements gathering, test plans design, test development and manual testing.
-Use testing tools to ensure software quality.
-Candidates must be able to thrive in a fast-paced, collaborative, open work environment.
-Qualifications and Skills
-Bachelor’s degree in a Computer Software related field.
-Passion for software development.
-Experience with programming languages (Javascript, HTML5, CSS, Bash, C#)
-Experience testing with databases. (MSSQL/MySQL, NoSQL/MongoDB).
-Experience using test tools and developing automated tests.
-Knowledge of wireless technologies (GPS, Bluetooth, RFID).
-Knowledge of cloud-based services (AWS).
-Team player as well as a self-starter who needs little supervision.
-Excellent communication, collaboration, analytical, and problem-solving skills.
-Benefits
-Flexible work schedule.
-Standard Benefits (includes: Medical, Dental, and Vision).
-Company paid RRSP contributions.
-Apply Today:
-Submit application to jobs@intelliwavetechnologies.com.
-Please include all contact information with your Resume. Do not include any additional contact information in the form below, outside of what the form asks for.
-
-Job Titles: Full Stack Developer
-Company Names: Redman Technologies Inc.
-Company Location: Edmonton, AB
-Job Condition: $120,000 a year,Full-time
-Job Description:
-"We are currently accepting applications exclusively from candidates residing in Edmonton or within the province of Alberta."
-
-About PLACE:
-
-PLACE is an end-to-end technology and business services platform designed to simplify the real estate lifecycle for both consumers and their real estate agents. Top producing real estate teams partner with PLACE because we take care of bookkeeping, human resources, in-house legal, design and marketing, talent acquisition, business training and coaching. Consumers choose real estate teams Powered by PLACE because our partners are positioned to deliver a better experience to their valued clients.
-
-Your Opportunity:
-
-Join PLACE Inc. and contribute to the growth of one of the most successful real estate technology and business services platforms. With a recent $100 million fundraise at a $1 billion valuation, our profitable and rapidly expanding company offers ample opportunities for you to advance your expertise and career. We prioritize your development - both professionally and personally - and provide a comprehensive compensation package that includes revenue share, health benefits, stock options, and RRSP matching. Embrace the flexibility of working from anywhere and discover the success path we've designed for you.
-
-We are currently seeking a talented Full Stack Developer with a passion for programming and writing elegant code. As part of our dynamic team, you will be responsible for creating custom tools and web applications tailored for the real estate industry. We are dedicated to delivering simple, functional, and powerful user interfaces, APIs, and information storage systems that streamline and enhance the user experience.
-
-What You Excel At:
-
-You are driven by delivering exceptional user experiences, excelling in creating feature-rich and easily navigable products.
-What You'll Accomplish:
-
-Execute projects of varying sizes, crafting innovative solutions for real estate and consumer services
-Implement automated tests alongside new features to identify and resolve bugs
-Analyze end-to-end initiatives, assessing performance, complexity, scalability, quality, and security
-Evaluate technical debt and propose strategies for reduction
-Mentor and support junior engineers in their growth
-
-Skills You Possess:
-
-3+ years of full stack engineering experience
-Expertise in JavaScript, with proficiency in React and Redux; familiarity with Node.js is a plus
-Strong understanding of asynchronous requests, including partial page updates, loading states, and error handling
-Proficiency in code documentation and testing
-Experience using various documentation and project-tracking software
-
-Comprehensive Benefits for Employees and Qualified Dependents:
-
-Medical coverage
-Dental coverage
-Vision coverage
-
-Employees are eligible to participate in the company's yearly Stock Purchase Program.
-
-We are an equal-opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need. We are committed to creating an inclusive environment for all employees.
 
