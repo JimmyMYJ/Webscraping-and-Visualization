@@ -4,16 +4,16 @@
         <meta charset="utf=8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Resume Optimizer</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     </head>
     <body>
         <h1 class="title">AI Resume Optimizer</h1>
         <div class="form_div">
             <div class="input_div">
-                <form action="./form.txt/"> <!--Placeholder ... Use Flask-->
+                <form action="/submit" method="post"> <!--Placeholder ... Use Flask-->
                     <h2></h2>
                     <fieldset class="inputs">
-                    <label for="job_url"></label>Job Posting Link: <input type="text" id="job_url">
+                    <label for="job_url"></label>Job Title: <input type="text" id="job_url" name="job_url" placeholder="Job Title, keywords, or company">
                     </fieldset>
                     <fieldset class="inputs">
                     <label for="resume">Upload Resume: </label><input type="file" id="resume">
@@ -24,8 +24,10 @@
                 </form>
             </div>
             <div class="output_div">
-                <h2>GPT Response:</h2>
-                <p>{{ result }}</p> <!-- Placeholder for GPT Response -->
+                <h2>GPT Response</h2>
+                {% if result %}
+                    <p>{{ result }}</p>
+                {% endif %} 
             </div>
         </div>
     </body>
