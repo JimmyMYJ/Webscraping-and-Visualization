@@ -83,3 +83,20 @@ def submit():
     return render_template('main.html', result=result)
 
 app.run(debug=False)
+
+
+@app.route('/upload', methods=['POST'])
+def upload():
+    if 'file' not in request.files:
+        return "No file part"
+
+    file = request.files['resume']
+
+    if file.filename == '':
+        return "No selected file"
+
+    # Process the uploaded file here
+
+    file.save('resume.txt')
+
+    return "File uploaded successfully"
