@@ -7,7 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-
+# Wrap in function #
 service = Service("chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get("https://ca.indeed.com/")
@@ -16,7 +16,7 @@ searchJob = driver.find_element(By.ID,"text-input-what")
 searchJob.clear()
 searchJob.send_keys("Programming")
 
-searchArea = driver.find_element(By.ID,"text-input-where")
+searchArea = driver.find_element(By.ID,"text-input-where") 
 time.sleep(1)
 number_of_characters = len(searchArea.get_attribute('value'))
 searchArea.send_keys(number_of_characters * Keys.BACKSPACE)
@@ -55,3 +55,22 @@ for job in jobs:
 
 time.sleep(10)
 driver.quit()
+
+from openai import OpenAI
+
+# web.py
+from flask import Flask, render_template, request
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return render_template('main.html')
+
+@app.route('/process_form', methods=['POST'])
+def process_form():
+    input_data = request.form['input_field']
+
+    result = webscrape(input_data) ### INPUT DATA IS URL TO JOB POSTING ###
+
+    return render_template('main.html', result=result)
